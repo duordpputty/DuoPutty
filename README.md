@@ -1,0 +1,2 @@
+# DuoPutty
+DuoPutty is a tool that used to quick connect to multiple UNIX servers (even cisco devices), you can run commands/scripts on selected remote servers (revoke psftp, plink, putty, ftp, scopy). i.e, sftp files to selected unix server and run command to change owner, took off ctrm for text file.  Scopy files to selected server and change mode of files, then run the scripts. (scopy will took of ctrm automatically) 
